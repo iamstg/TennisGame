@@ -42,6 +42,7 @@ def changeServe():
 		serveturn = 1
 
 class Count:
+	"""TODO: Reduce global variables."""
 	global playerturn
 	global P1set
 	global P1game
